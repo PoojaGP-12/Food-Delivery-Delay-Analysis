@@ -34,15 +34,6 @@ This project aims to answer:
 
 ---
 
-### 📈 Key Visual Insights
-
-<p align="center">
-  <img src="assets/delay-analysis.png" width="400"/>
-  <img src="assets/slicers.png" width="400"/>
-</p>
-
----
-
 ## 🔍 Key Insights
 
 - 🚦 **High traffic density** leads to the longest delivery delays  
