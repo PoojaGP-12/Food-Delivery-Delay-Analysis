@@ -34,16 +34,6 @@ This project aims to answer:
 
 ---
 
-## 📊 Dashboard Preview
-
-### 🖥️ Full Dashboard
-
-<p align="center">
-  <img src="assets/dashboard-overview.png" width="800"/>
-</p>
-
----
-
 ### 📈 Key Visual Insights
 
 <p align="center">
